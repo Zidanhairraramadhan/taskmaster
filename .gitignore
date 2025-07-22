@@ -1,0 +1,14 @@
+# File hasil kompilasi Java
+*.class
+
+# Folder output build
+/bin/
+/target/
+
+# File log
+*.log
+
+# Pengaturan IDE
+.vscode/
+.idea/
+*.iml
